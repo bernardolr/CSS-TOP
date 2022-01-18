@@ -1,0 +1,43 @@
+*{
+    font-family: helvetica;
+}
+
+.para {
+    font-size: 22px;
+}
+
+.small-para {
+    font-size: 12px;
+}
+
+.para,
+.small-para {
+  color: hsl(0, 100%, 50%);
+  font-weight: bold;
+
+}
+
+.button {
+    background-color: #ffc0cb;
+    color: black;
+    font-size: 20px;
+}
+
+.confirm {
+  background: green;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+} 
+
+.text {
+    color: green;
+    font-size: 30px;
+}
+
+.child {
+  color: red;
+  font-size: 14px;
+  font-weight: bold;
+}
+
