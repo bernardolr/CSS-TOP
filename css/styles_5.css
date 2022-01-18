@@ -1,0 +1,12 @@
+*{
+    font-family: helvetica;
+}
+.parent .child{
+    font-size: 20px;
+    text-align: center;
+    background-color: yellow;
+    color: red;
+    font-weight: bold;
+
+
+}
